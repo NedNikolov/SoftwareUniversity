@@ -17,4 +17,4 @@ class Calatogue:
 
     def __repr__(self):
         print(f"Items in the {self.name} catalogue:\n")
-        return f""
+        return f" "
