@@ -30,7 +30,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.E04. Town">
+  <component name="RunManager" selected="Python.01. Comment">
     <configuration name="01. Comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,15 +138,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01. Comment" />
         <item itemvalue="Python.E04. Town" />
         <item itemvalue="Python.E03. Catalogue" />
         <item itemvalue="Python.E02. Weapon" />
         <item itemvalue="Python.E01. Storage" />
-        <item itemvalue="Python.01. Comment" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -161,78 +161,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="632" y="177" width="569" height="382" key="#Notifications" timestamp="1598517786685">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="632" y="177" width="569" height="382" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1598517786685" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598429670466">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598429670466" />
-    <state width="647" height="466" key="DebuggerActiveHint" timestamp="1598597432254">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="647" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1598597432254" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1598429601921">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598429601921" />
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1600697103271">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600697103271" />
-    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1600697103271">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600697103271" />
-    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1600697103271">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600697103271" />
-    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1600697103271">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600697103271" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1600697103272">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600697103272" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1600697103271">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600697103271" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1600697103271">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600697103271" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1600697103271">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1607427252437">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600697103271" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1598429665948">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598429665948" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598429694383">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598429694383" />
-    <state x="574" y="274" key="git4idea.rebase.GitRebaseDialog" timestamp="1598429429767">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="274" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1598429429767" />
-    <state x="538" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598433511232">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="538" y="314" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598433511232" />
-    <state x="574" y="307" key="git4idea.ui.GitResetDialog" timestamp="1598429398477">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="307" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1598429398477" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598429339889">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598429339889" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607427252437" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
