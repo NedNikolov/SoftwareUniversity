@@ -1,6 +1,6 @@
 n = int(input())
-even = 0
-odd = 0
+even = 0   1  5
+odd = 0    4  6
 
 for i in range(1, n + 1):
     if i % 2 == 0:
