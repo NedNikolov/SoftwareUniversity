@@ -9,3 +9,10 @@
 # setdefault()	Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
 # update()	Updates the dictionary with the specified key-value pairs
 # values()	Returns a list of all the values in the dictionary
+
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+else:
+  print("i is no longer less than 6")
