@@ -18,7 +18,10 @@ class Person:
 p1 = Person("Andersen", 34)
 print(p1.name)
 print(p1.age)
-p1.name = 'Neo'
+p1.person_info()
+
+p1.name = input()
+p1.age = input()
 p1.person_info()
 
 

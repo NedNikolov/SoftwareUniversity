@@ -15,4 +15,7 @@ class Weapon:
 weapon = Weapon(5)
 weapon.shoot()
 
+print(weapon.shoot())
+print(weapon.shoot())
 print(weapon)
+
