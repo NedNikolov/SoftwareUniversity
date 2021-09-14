@@ -47,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.01.ClassesObjects">
+  <component name="RunManager" selected="Python.04.WaterDispenser">
     <configuration name="01.ClassesObjects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01.ReverseStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.W3SCHOOL/07.Others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.W3SCHOOL/07.Others/02.Math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/01.ReverseStrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.JSON" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02.MatchingParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.W3SCHOOL/07.Others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.W3SCHOOL/07.Others/03.JSON.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/02.MatchingParentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.RegEx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.Supermarket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.W3SCHOOL/07.Others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.W3SCHOOL/07.Others/04.RegEx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/03.Supermarket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="E02. Weapon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04.WaterDispenser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02.PythonFundamentals/06.Classes-and-Objects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.PythonFundamentals/06.Classes-and-Objects/E02. Weapon.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/04.WaterDispenser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04.WaterDispenser" />
+        <item itemvalue="Python.03.Supermarket" />
+        <item itemvalue="Python.02.MatchingParentheses" />
+        <item itemvalue="Python.01.ReverseStrings" />
         <item itemvalue="Python.01.ClassesObjects" />
-        <item itemvalue="Python.E02. Weapon" />
-        <item itemvalue="Python.04.RegEx" />
-        <item itemvalue="Python.03.JSON" />
-        <item itemvalue="Python.02.Math" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +198,13 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
