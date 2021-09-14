@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3d71b674-720b-4ae5-9707-77b9f21a4b75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/05.HotPotato.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/05.HotPotato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/~$-Lists-as-Stacks-and-Queues-Lab.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +49,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.04.WaterDispenser">
-    <configuration name="01.ClassesObjects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01.ReverseNumbers">
+    <configuration name="01.ReverseNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06.W3SCHOOL/06.ClassesObjectsInheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.W3SCHOOL/06.ClassesObjectsInheritance/01.ClassesObjects.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/01.ReverseNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01.ReverseNumbers" />
         <item itemvalue="Python.04.WaterDispenser" />
         <item itemvalue="Python.03.Supermarket" />
         <item itemvalue="Python.02.MatchingParentheses" />
         <item itemvalue="Python.01.ReverseStrings" />
-        <item itemvalue="Python.01.ClassesObjects" />
       </list>
     </recent_temporary>
   </component>
