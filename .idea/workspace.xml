@@ -7,7 +7,8 @@
     <list default="true" id="3d71b674-720b-4ae5-9707-77b9f21a4b75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/05.HotPotato.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/05.HotPotato.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/~$-Lists-as-Stacks-and-Queues-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/02.StackedQueries.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/02.StackedQueries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/03.FastFood.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/03.FastFood.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.01.ReverseNumbers">
+  <component name="RunManager" selected="Python.03.FastFood">
     <configuration name="01.ReverseNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01.ReverseStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02.StackedQueries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/01.ReverseStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/02.StackedQueries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.MatchingParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.FastFood" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftwareUniversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,32 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/02.MatchingParentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03.Supermarket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftwareUniversity" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/03.Supermarket.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/03.FastFood.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,13 +135,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="05.HotPotato" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareUniversity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Python Advanced/03.ListsAsStacksAndQueues/05.HotPotato.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03.FastFood" />
+        <item itemvalue="Python.02.StackedQueries" />
+        <item itemvalue="Python.05.HotPotato" />
         <item itemvalue="Python.01.ReverseNumbers" />
         <item itemvalue="Python.04.WaterDispenser" />
-        <item itemvalue="Python.03.Supermarket" />
-        <item itemvalue="Python.02.MatchingParentheses" />
-        <item itemvalue="Python.01.ReverseStrings" />
       </list>
     </recent_temporary>
   </component>
