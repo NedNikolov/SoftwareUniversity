@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d71b674-720b-4ae5-9707-77b9f21a4b75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SoftwareUniversity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftwareUniversity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/04.FashionBoutique.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/04.FashionBoutique.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/05.TruckTour.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/05.TruckTour.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/06.BalancedParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/06.BalancedParentheses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/07.Robotics.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.Python Advanced/04.ListsAsStacksAndQueuesExercise/07.Robotics.py" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.07.Robotics">
     <configuration name="03.FastFood" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -192,6 +197,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1631638356618">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1631638356618" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1631638484766">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1631638484766" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
