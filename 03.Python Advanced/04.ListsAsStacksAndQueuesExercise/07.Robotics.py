@@ -1,6 +1,7 @@
 from math import floor
 from collections import deque
 
+
 class Robot:
     def __init__(self, name, processing_time):
         self.name = name
@@ -37,7 +38,7 @@ while True:
     items.append(item)
 
 while items:
-    current_item = items[0]
+    current_item = items.popleft()
     time_in_seconds += 1
     found_robot = False
 
@@ -47,6 +48,6 @@ while items:
             found_robot = True
             print(f"{robot.name} - {current_item} [{get_time_from_seconds(time_in_seconds)}]")
             break
-    if found_robot:
-        items.popleft()
+    if not found_robot:
+        items.append(current_item)
 
