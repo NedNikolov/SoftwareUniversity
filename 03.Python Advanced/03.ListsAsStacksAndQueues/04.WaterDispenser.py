@@ -23,4 +23,4 @@ while command != "End":
         else:
             print(f"{names.popleft()} must wait")
     command = input()
-print(f"{litters} litters left")
+print(f"{litters} liters left")
