@@ -11,5 +11,6 @@ for _ in range(n):
     if len(current_intersection) > len(longest_intersection):
         longest_intersection = current_intersection
 
+print(longest_intersection)
 print(f"Longest intersection is [{', '.join([str(x) for x in longest_intersection])}] "
       f"with length {len(longest_intersection)}")

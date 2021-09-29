@@ -1,0 +1,18 @@
+set1 = set()
+set2 = set()
+
+set1.add(1)
+set1.add(2)
+set1.add(3)
+set1.add(4)
+set1.add(5)
+set2.add(5)
+set2.add(6)
+set2.add(7)
+set2.add(8)
+
+print(set1.intersection(set2))
+print(set1.union(set2))
+print(set1.symmetric_difference(set2))
+print(set1.difference(set2))
+print(set2.difference(set1))
