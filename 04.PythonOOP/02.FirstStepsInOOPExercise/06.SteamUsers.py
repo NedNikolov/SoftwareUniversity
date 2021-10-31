@@ -2,13 +2,24 @@ class SteamUser:
     def __init__(self, username, games):
         self.username = username
         self.games = games
-        self.playeed_hours = 0
+        self.played_hours = 0
 
     def play(self, game, hours):
         if game not in self.games:
             return f"{game} is not in library"
-        self.playeed_hours += hours
+
+        self.played_hours += hours
         return f"{self.username} is playing {game}"
+
+    def buy_game(self, game):
+        if game is self.games:
+            return f"{game} is already in your library"
+
+        self.games.append(game)
+        return f"{self.username} bought {game}"
+
+    def status(self):
+        return f"{self.username} has {len(self.games)} games. Total play time: {self.played_hours}"
 
 
 user = SteamUser("Peter", ["Rainbow Six Siege", "CS:GO", "Fortnite"])
