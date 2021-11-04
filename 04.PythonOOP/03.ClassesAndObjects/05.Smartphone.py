@@ -1,37 +1,32 @@
-print(f"Здравейте,")
-print(f"Това е процентов калкулатор.")
-print(f"Изберете 1 за: Колко е определена стойност в процент от цялата стойност")
-print(f"Изберете 2 за: Колко процента е определена стойност от цялата стойност")
-print(f"Изберете 3 за: Колко са 100% от определена стойност")
-command = int(input())
+class Smartphone:
+    def __init__(self, memory):
+        self.memory = memory
+        self.apps = []
+        self.is_on = False
 
-while command != 4:
-    if command == 1:
-        print(f"Колко е определена стойност в процент от цялата стойност")
-        print(f"Percentage:", end="")
-        percent = int(input())
-        print(f"Total:", end="")
-        total = int(input())
+    def install(self, app, app_memory):
+        if self.memory < app_memory:
+            return f"Not enough memory to install {app}"
 
-        result = (total * percent) / 100
-        print(f"{percent}% от {total} са {result}")
-    elif command == 2:
-        print(f"Колко процента е определена стойност от цялата стойност")
-        print(f"Value:", end="")
-        value = int(input())
-        print(f"Total:", end="")
-        total = int(input())
+        if not self.is_on:
+            return f"Turn on your phone to install {app}"
 
-        result = 100 / (total / value)
-        print(f"{value}% от {total} са {result}%")
-    else:
-        print(f"Колко са 100% от определена стойност")
-        print(f"Value:", end="")
-        value = int(input())
-        print(f"Percentage:", end="")
-        percentage = int(input())
+        self.apps.append(app)
+        self.memory -= app_memory
+        return f"Installing {app}"
 
-        result = (100 / percentage) * value
-        print(f"100% от {value} са {result}")
-    print(f"Ако желаете да излезете изберете 4, ако желаете да калкулирате отново изберете следователно 1, 2 или 3")
-    command = int(input())
+    def power(self):
+        self.is_on = not self.is_on
+
+    def status(self):
+        total_apps_count = len(self.apps)
+        return f"Total apps: {total_apps_count}. Memory left: {self.memory}"
+
+
+smartphone = Smartphone(100)
+print(smartphone.install("Facebook", 60))
+smartphone.power()
+print(smartphone.install("Facebook", 60))
+print(smartphone.install("Messenger", 20))
+print(smartphone.install("Instagram", 40))
+print(smartphone.status())
