@@ -1,4 +1,5 @@
 from task import Task
+from section import Section
 
 
 task = Task("Make bed", "27/05/2020")
