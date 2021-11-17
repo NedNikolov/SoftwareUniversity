@@ -10,12 +10,15 @@ class Task:
             return f"Name cannot be the same."
 
         self.name = new_name
+        return self.name
 
     def change_due_date(self, new_date):
         if new_date == self.due_date:
             return f"Date cannot be the same."
 
         self.due_date = new_date
+
+        return self.due_date
 
     def add_comment(self, comment):
         self.comments.append(comment)
