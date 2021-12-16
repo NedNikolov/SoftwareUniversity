@@ -1,4 +1,4 @@
-from project.fruit import Fruit
+from project import Fruit
 
 fruit = Fruit("Lemon", '2021-12-23')
 print(fruit.name)

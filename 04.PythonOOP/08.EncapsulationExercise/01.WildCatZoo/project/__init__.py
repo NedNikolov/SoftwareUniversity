@@ -1,18 +1,45 @@
-# file = """worker""".split("\n")
-#
-# for file in file:
-#     file = file + ".py"
-#     open(file, "a").close()
-from project.lion import Lion
-from project.tiger import Tiger
-from project.vet import Vet
-from project.zoo import Zoo
+from project import Caretaker
+from project import Cheetah
+from project import Keeper
+from project import Lion
+from project import Tiger
+from project import Vet
+from project import Zoo
 
-tiger = Tiger('Panzer', 'male', 2)
-zoo = Zoo('5-th', 100, 5, 5)
+zoo = Zoo("Zootopia", 3000, 5, 8)
 
-print(zoo.add_animal(tiger, 99))
-vet = Vet('Petar', 29, 5000)
-print(zoo.hire_worker(vet))
-print(zoo.fire_worker('Gosho'))
-print(zoo.fire_worker('Petar'))
+# Animals creation
+animals = [Cheetah("Cheeto", "Male", 2), Cheetah("Cheetia", "Female", 1), Lion("Simba", "Male", 4), Tiger("Zuba", "Male", 3), Tiger("Tigeria", "Female", 1), Lion("Nala", "Female", 4)]
+
+# Animal prices
+prices = [200, 190, 204, 156, 211, 140]
+
+# Workers creation
+workers = [Keeper("John", 26, 100), Keeper("Adam", 29, 80), Keeper("Anna", 31, 95), Caretaker("Bill", 21, 68), Caretaker("Marie", 32, 105), Caretaker("Stacy", 35, 140), Vet("Peter", 40, 300), Vet("Kasey", 37, 280), Vet("Sam", 29, 220)]
+
+# Adding all animals
+for i in range(len(animals)):
+    animal = animals[i]
+    price = prices[i]
+    print(zoo.add_animal(animal, price))
+
+# Adding all workers
+for worker in workers:
+    print(zoo.hire_worker(worker))
+
+# Tending animals
+print(zoo.tend_animals())
+
+# Paying keepers
+print(zoo.pay_workers())
+
+# Fireing worker
+print(zoo.fire_worker("Adam"))
+
+# Printing statuses
+print(zoo.animals_status())
+print(zoo.workers_status())
+
+
+
+
