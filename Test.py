@@ -1,3 +1,3 @@
-print(2 ** 2)
-print(4 ** 2)
-print(6 ** 2)
+rows, cols = [float(x) for x in input().split(' ')]
+wMtoSm = rows * 100
+hMtoSm = cols * 100

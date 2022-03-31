@@ -47,8 +47,8 @@ gifts_list = {
 materials = [int(x) for x in input().split(' ')]
 magics = [int(x) for x in input().split(' ')]
 
-wedding_presents = [x for x in materials]  # deque
-genie_magic_levels = deque([x for x in magics])  # stack
+wedding_presents = [x for x in materials]  # deque/stack
+genie_magic_levels = deque([x for x in magics])  # queue
 gifts = 0
 
 while wedding_presents and genie_magic_levels:
