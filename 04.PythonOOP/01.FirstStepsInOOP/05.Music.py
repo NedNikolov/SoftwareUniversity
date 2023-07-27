@@ -11,6 +11,6 @@ class Music:
         return f"{self.lyrics}"
 
 
-song = Music("Title", "Artist", "Lyrics")
+song = Music("Looking for love", "Whitesnake", "Awesome lyrics")
 print(song.print_info())
 print(song.play())
