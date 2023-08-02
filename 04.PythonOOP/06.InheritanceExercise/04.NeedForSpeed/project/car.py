@@ -1,4 +1,4 @@
-from project import Vehicle
+from project import Point
 
 
 class Car(Vehicle):

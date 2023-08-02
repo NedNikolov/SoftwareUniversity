@@ -1,9 +1,8 @@
-from project.Vehicle import Vehicle
+from project.Point import Point
 
-car = Vehicle(20)
-print(car.max_speed)
-print(car.mileage)
-print(car.gadgets)
-car.gadgets.append('Hudly Wireless')
-print(car.gadgets)
+p = Point(2, 4)
+print(p)
+p.set_x(3)
+p.set_y(5)
+print(p)
 
