@@ -3,7 +3,7 @@ from project import Cheetah
 from project import Keeper
 from project import Lion
 from project import Tiger
-from project import Vet
+from project import Album
 from project import Zoo
 
 zoo = Zoo("Zootopia", 3000, 5, 8)

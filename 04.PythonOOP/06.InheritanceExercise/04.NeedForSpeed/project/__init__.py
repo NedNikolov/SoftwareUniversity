@@ -1,5 +1,5 @@
 from project import FamilyCar
-from project import Point
+from project import Album
 
 vehicle = Vehicle(50, 150)
 print(Vehicle.DEFAULT_FUEL_CONSUMPTION)

@@ -1,4 +1,4 @@
-from project import Player
+from project import Album
 
 
 class Team:

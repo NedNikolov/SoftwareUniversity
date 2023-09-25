@@ -1,4 +1,4 @@
-from project import Point
+from project import Album
 
 
 class Motorcycle(Vehicle):
